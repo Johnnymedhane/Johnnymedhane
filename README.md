@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Johnny! 👋  
 
-<!--
-**Johnnymedhane/Johnnymedhane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer who loves building cool projects and solving problems.  
+- 🌱 I’m currently learning **React**.  
 
-Here are some ideas to get you started:
+## 🚀 I have
+- 🖥️ very good experience with **React**  
+- 🎨 Advanced knowledge of **JavaScript, CSS, and HTML**  
+- 🔧 Experience with modern **JavaScript frameworks**  
+- 🛠️ Proficient in **Git, GitHub, branching methodologies, and code reviews**  
+- ⚡ Ability to work independently in a **fast-paced environment**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 What I’m Looking For  
+I’m seeking opportunities where I can contribute my skills, learn from others, and grow professionally as a **Frontend Developer**.  
+
+## 🤝 Let’s Connect!  
+If you’re looking for a **motivated, detail-oriented professional** who has overcome challenges and is ready to make an impact, let’s connect!  
+
+📫 **Reach me at:**  
+- [Portfolio] https://www.linkedin.com/in/johnny-medhane-53152b1a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+- [Portfolio](#)  
