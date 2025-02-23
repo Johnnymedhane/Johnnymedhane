@@ -17,5 +17,5 @@ I’m seeking opportunities where I can contribute my skills, learn from others,
 If you’re looking for a **motivated, detail-oriented professional** who has overcome challenges and is ready to make an impact, let’s connect!  
 
 📫 **Reach me at:**  
-- [Portfolio] https://www.linkedin.com/in/johnny-medhane-53152b1a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+- [linkedIn] https://www.linkedin.com/in/johnny-medhane-53152b1a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 - [Portfolio](#)  
