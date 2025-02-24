@@ -1,6 +1,6 @@
 # Hi, I'm Johnny! 👋  
 
-I'm a passionate developer who loves building cool projects and solving problems.  
+I'm a passionate Front-end Developer who loves building cool projects and solving problems.  
 - 🌱 I’m currently learning **React**.  
 
 ## 🚀 I have
